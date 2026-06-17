@@ -17,7 +17,7 @@ Data-
 
 
 - `01_graphs.R` — merges all the datasets to construct graphs form the variables as per the findings 
-- `02_Worked final.R` — Estimates OLS and fixed-effects 
+- `02_Worked final 3.R` — Estimates OLS and fixed-effects 
   regressions of pollution exposure on healthcare outcomes; includes 
   robustness checks and sensitivity analysis across socioeconomic subgroups
 
